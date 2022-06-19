@@ -10,4 +10,4 @@ garantir exclusão mútua para que este funcione de maneira consistente.
 
 O vídeo com a execução do código é este: https://www.youtube.com/watch?v=YH0O1K4hdQA
 
-Segue também um PDF de um relatório mais detalhado sobre a solução.
+
